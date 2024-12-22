@@ -13,7 +13,10 @@
 	)
 	(rect
 		(name "")
-		(start 189.8472 127.8458)
-		(end -0.6528 0.8458)
+		(start -3.65 -3.65 ltcorner)
+		(end -4.06 -3.31)
+		(repeat 2)
+		(incrx 2)
+		(incry 2)
 	)
 )
